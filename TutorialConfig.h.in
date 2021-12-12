@@ -1,0 +1,3 @@
+#define Tutorial_VERSION_MAJOR @cmake-test_VERSION_MAJOR@
+#define Tutorial_VERSION_MINOR @cmake-test_VERSION_MINOR@
+#cmakedefine USE_MYLIB
